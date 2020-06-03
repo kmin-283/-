@@ -15,5 +15,5 @@
 
 반면에 이 범위를 벗어나는 값들은 호출이 이루어질 때마다 object를 생성하기 때문에 그 메모리 값이 다르게 변화한다고 한다.
 
-![result1](cap1.jpge)
-![result2](cap2.jpge)
+![result1](cap1.PNG)
+![result2](cap2.PNG)
